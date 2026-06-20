@@ -93,8 +93,8 @@ Do not build production clones. Build small, readable components that make the d
 - `learning-backend-ddd`: backend framework and DDD implementation
 - `learning-data-stores`: database behavior and data-store comparisons
 - `learning-platform-engineering`: deployment, observability, runbooks, NGINX, CI
-- `learning-api-integration`: public API, GraphQL, MCP, external API clients
-- `learning-networking-protocols`: P2P, WebRTC, libp2p, transport-level networking
+- `learning-backend-ddd`, `learning-frontend-typescript`, `learning-ai-python`: public API, GraphQL, MCP, external API clients
+- `learning-platform-engineering`, `learning-frontend-typescript`: P2P, WebRTC, libp2p, transport-level networking
 
 ## First Milestones
 
