@@ -33,3 +33,9 @@ Each case study should include:
 | 8 | autocomplete | trie/index, ranking, freshness |
 | 9 | object storage | metadata, chunks, durability, multipart upload |
 | 10 | metrics and alerting | ingestion, aggregation, retention, alert fatigue |
+
+## Legacy Imports
+
+Raw system design notes from the old private `hjosugi/coding-interview` repository live in
+[`legacy-coding-interview/`](legacy-coding-interview/). Treat them as rewrite material, not
+finished case studies.

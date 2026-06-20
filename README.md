@@ -76,6 +76,7 @@ Each topic should answer:
 ```text
 case-studies/
   README.md
+  legacy-coding-interview/
 implementations/
   README.md
 memorization/
@@ -144,3 +145,9 @@ Do not build production clones. Build small, readable components that make the d
 - No proprietary diagrams.
 - Diagrams should be original and source-controlled as Mermaid or simple text.
 - External references should be linked, not pasted wholesale.
+
+## Consolidation Notes
+
+System design notes from the old private `hjosugi/coding-interview` repository were imported
+under `case-studies/legacy-coding-interview/` as rewrite material. Coding-practice files from
+that repository live in `hjosugi/l4-coding`.
