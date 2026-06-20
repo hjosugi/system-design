@@ -4,6 +4,15 @@ System design interview and engineering practice repo for memorization, design f
 
 Last verified: 2026-06-20
 
+## Runnable Starter Project
+
+Start with the rate limiter implementation drill:
+
+```bash
+python3 implementations/rate-limiter-lab/rate_limiter.py
+python3 implementations/rate-limiter-lab/test_rate_limiter.py
+```
+
 ## Why This Repo Exists
 
 System design learning has two different jobs:
