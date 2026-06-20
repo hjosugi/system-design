@@ -2,7 +2,15 @@
 
 System design interview and engineering practice repo for memorization, design frameworks, back-of-the-envelope estimation, case studies, and small implementations.
 
-Last verified: 2026-06-20
+Last verified: 2026-06-21
+
+## Development Environment
+
+If Python is missing locally, enter the Nix shell:
+
+```bash
+nix develop
+```
 
 ## Runnable Starter Project
 
@@ -12,6 +20,20 @@ Start with the rate limiter implementation drill:
 python3 implementations/rate-limiter-lab/rate_limiter.py
 python3 implementations/rate-limiter-lab/test_rate_limiter.py
 ```
+
+## Target Hands-On Projects
+
+Core component implementations:
+
+```bash
+python3 implementations/rate-limiter-lab/rate_limiter.py
+python3 implementations/rate-limiter-lab/test_rate_limiter.py
+
+python3 implementations/consistent-hashing-lab/consistent_hash.py
+python3 -m unittest discover -s implementations/consistent-hashing-lab
+```
+
+Every system design topic should eventually have this shape: design note, runnable component, and a small test.
 
 ## Why This Repo Exists
 
